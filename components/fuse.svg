@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='0.744in' height='0.280322in' viewBox='0 0 53.568 20.1832' >
+<path stroke='#8c8c8c' stroke-width='1.728' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M1.732,10.0928L0.864,10.0928' />
+<path stroke='#8c8c8c' stroke-width='1.728' stroke-linecap='round' stroke-linejoin='round' fill='none' d='M51.84,10.092L52.704,10.092' />
+<g partID='57730'><g transform='translate(0.8184,0)' ><g xmlns="http://www.w3.org/2000/svg" id="breadboard">
+ <g xmlns="http://www.w3.org/2000/svg" x1="1.142" x2="0.057" stroke-width="1.728" stroke="#8C8C8C" id="connector0leg" fill="none" y1="12.616" stroke-linecap="round" stroke-miterlimit="10" y2="12.616"/>
+ <g xmlns="http://www.w3.org/2000/svg" x1="63.777" x2="64.857" stroke-width="1.728" stroke="#8C8C8C" id="connector1leg" fill="none" y1="12.615" stroke-linecap="round" stroke-miterlimit="10" y2="12.615"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="10.0928" r="0.864" id="connector0pin" fill="#8C8C8C" cx="0.9096"/>
+ <circle xmlns="http://www.w3.org/2000/svg" cy="10.0928" r="0.864" id="connector1pin" fill="#8C8C8C" cx="51.0208"/>
+ <rect xmlns="http://www.w3.org/2000/svg" width="1.3128" x="0.0496" y="5.7824" id="lleg" fill="#8C8C8C" height="8.6168"/>
+ <rect xmlns="http://www.w3.org/2000/svg" width="1.3128" x="50.5728" y="5.7824" id="rlleg" fill="#8C8C8C" height="8.6168"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="M1.3624,0l0,20.1832l49.2088,0L50.5712,0L1.3624,0zM25.9664,13.492c-1.88,0,-3.4016,-1.52,-3.4016,-3.4016c0,-1.8784,1.5224,-3.4016,3.4016,-3.4016c1.8792,0,3.4008,1.5232,3.4008,3.4016C29.368,11.9696,27.8464,13.492,25.9664,13.492z" id="body" fill="#D7BFA4"/>
+ <path xmlns="http://www.w3.org/2000/svg" d="M17.4632,2.0416l0,16.1l17.008,0L34.4712,2.0416L17.4632,2.0416zM25.9664,13.4936c-1.88,0,-3.4016,-1.5216,-3.4016,-3.4032c0,-1.8784,1.5224,-3.4016,3.4016,-3.4016c1.8792,0,3.4008,1.5232,3.4008,3.4016C29.368,11.9712,27.8464,13.4936,25.9664,13.4936z" id="center" fill="#C69C6D"/>
+ <g xmlns="http://www.w3.org/2000/svg" id="fuse">
+  <line xmlns="http://www.w3.org/2000/svg" x1="5.296" x2="45.4712" stroke-width="0.74712" stroke="#8C8C8C" id="l" fill="none" y1="12.6888" stroke-miterlimit="10" y2="6.7968"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M47.588,5.7352l0,8.712L4.3456,14.4472L4.3456,5.7352L47.588,5.7352M48.3352,4.9888L3.5984,4.9888l0,10.2064l44.7368,0L48.3352,4.9888L48.3352,4.9888z" id="tube" fill="#FFFFFF"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M3.5984,4.9888L3.5984,4.9888c-1.2352,0,-2.2368,2.2832,-2.2368,5.1032c0,2.8168,1.0016,5.1032,2.2368,5.1032l0,0l10.9872,0L14.5856,4.9888L3.5984,4.9888z" id="lc" fill="#CCCCCC"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M48.3352,4.9888L48.3352,4.9888L37.3464,4.9888l0,10.2064l10.9888,0l0,0c0.8232,-0.0032,1.544,-1.0216,1.9296,-2.5408c0.1936,-0.7512,0.3064,-1.6248,0.3064,-2.5624C50.5712,7.2728,49.5696,4.9904,48.3352,4.9888z" id="rc" fill="#CCCCCC"/>
+ </g>
+ <g xmlns="http://www.w3.org/2000/svg" id="lcap">
+  <path xmlns="http://www.w3.org/2000/svg" d="M1.3608,8.2776L0.8712,8.2776C0.3896,8.2776,0,7.8856,0,7.4016L0,5.2968c0,-0.4832,0.3896,-0.876,0.8712,-0.876l12.0904,0c0.4816,0,0.8712,0.392,0.8712,0.876l0,0.8248L1.3608,6.1216L1.3608,8.2776z" id="ulc" fill="#A0A0A0"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M13.8328,14.0584l0,0.828c0,0.4832,-0.3896,0.8752,-0.8712,0.8752L0.8712,15.7616C0.3896,15.7608,0,15.3704,0,14.8864l0,-2.108c0,-0.4832,0.3896,-0.8744,0.8712,-0.8744L1.36,11.904l0,2.1512L13.8328,14.0584L13.8328,14.0584z" id="dlc" fill="#A0A0A0"/>
+ </g>
+ <g xmlns="http://www.w3.org/2000/svg" id="rcap">
+  <path xmlns="http://www.w3.org/2000/svg" d="M50.5712,8.2776l0.4888,0c0.4832,0,0.872,-0.392,0.872,-0.876L51.932,5.2968c0,-0.4832,-0.3888,-0.876,-0.872,-0.876L38.968,4.4208c-0.4832,0,-0.8704,0.392,-0.8704,0.876l0,0.8248l12.4736,0L50.5712,8.2776L50.5712,8.2776z" id="urc" fill="#A0A0A0"/>
+  <path xmlns="http://www.w3.org/2000/svg" d="M38.0976,14.0584l0,0.828c0,0.4832,0.3904,0.8752,0.872,0.8752l12.092,0c0.4832,0,0.8704,-0.3904,0.8704,-0.8752l0,-2.108c0,-0.4832,-0.3872,-0.8744,-0.8704,-0.8744l-0.4888,0l0,2.1512L38.0976,14.0584L38.0976,14.0584z" id="drc" fill="#A0A0A0"/>
+ </g>
+</g>
+</g></g></svg>
