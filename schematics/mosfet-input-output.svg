@@ -265,7 +265,7 @@
          inkscape:connector-curvature="0"
          id="path6774-6-7"
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#4fa111;fill-opacity:1;fill-rule:evenodd;stroke:#4fa111;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#c36112;fill-opacity:1;fill-rule:evenodd;stroke:#c36112;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.4,0.4)" />
     </marker>
     <marker
@@ -310,7 +310,7 @@
          inkscape:connector-curvature="0"
          id="path6774-6-9-6-9-7"
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#4fa111;fill-opacity:1;fill-rule:evenodd;stroke:#4fa111;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#c36112;fill-opacity:1;fill-rule:evenodd;stroke:#c36112;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.4,0.4)" />
     </marker>
     <marker
@@ -325,7 +325,7 @@
          inkscape:connector-curvature="0"
          id="path6774-6-9-6-9-7-0"
          d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#4fa111;fill-opacity:1;fill-rule:evenodd;stroke:#4fa111;stroke-width:1pt;stroke-opacity:1"
+         style="fill:#db7400;fill-opacity:1;fill-rule:evenodd;stroke:#db7400;stroke-width:1pt;stroke-opacity:1"
          transform="scale(0.4,0.4)" />
     </marker>
     <marker
@@ -809,15 +809,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="254.3337"
-     inkscape:cy="208.77465"
+     inkscape:cx="300.83014"
+     inkscape:cy="187.28096"
      inkscape:document-units="px"
      inkscape:current-layer="g8914"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1172"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
+     inkscape:window-height="1124"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -12545,7 +12545,7 @@
            inkscape:connector-curvature="0"
            clip-path="url(#clipPath14072)" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#4fa111;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-9)"
+           style="fill:none;fill-rule:evenodd;stroke:#c36112;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-9)"
            d="m 466.7893,-192.16399 0,150.000004"
            id="path6623-7-9"
            inkscape:connector-curvature="0"
@@ -12558,22 +12558,30 @@
            sodipodi:nodetypes="ccc"
            clip-path="url(#clipPath14064)" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#4fa111;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-0-2-7-94)"
+           style="fill:none;fill-rule:evenodd;stroke:#c36112;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-0-2-7-94)"
            d="m 499.88799,-299.66397 32.24957,0 -0.43742,257.083823"
            id="path6623-7-6-8-3-4"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc"
            clip-path="url(#clipPath14060)" />
+        <rect
+           style="opacity:1;fill:#cdcdcd;fill-opacity:1;stroke:none;stroke-width:1.42229104;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6434"
+           width="41.306278"
+           height="49.163425"
+           x="-401.49829"
+           y="-491.24088"
+           transform="matrix(0,1,-1,0,0,0)" />
         <path
            style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient11620);stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-2-0-2-3-3)"
-           d="m 574.33781,-46.007252 -0.27892,-344.462018 -69.91903,0"
+           d="m 574.33781,-46.007252 -0.27892,-344.462018 -121.70474,2.14286"
            id="path6623-3-1-2-8-1"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc"
            clip-path="url(#clipPath14056)" />
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#4fa111;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-0-2-7-94-5)"
-           d="m 559.18552,-44.113849 0.22615,-329.309731 -55.27181,1.51523"
+           style="fill:none;fill-rule:evenodd;stroke:#db7400;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM-3-0-2-7-94-5)"
+           d="m 559.18552,-44.113849 0.22615,-329.309731 -106.70038,2.22952"
            id="path6623-7-6-8-3-4-0"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccc"
@@ -12624,7 +12632,7 @@
              sodipodi:role="line"
              x="-20.021132"
              y="-252.14644"
-             id="tspan13719">Big mosfets input</tspan></text>
+             id="tspan13719">Big mosfets power input</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12676,7 +12684,7 @@
              sodipodi:role="line"
              id="tspan13681-0-1-6"
              x="-20.021133"
-             y="-413.57504">Small mosfets input</tspan></text>
+             y="-413.57504">Small mosfets power input</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -12710,12 +12718,16 @@
            y="-564.28937"
            id="text13679-2-6-4-2"
            sodipodi:linespacing="125%"
-           transform="matrix(0,1,-1,0,0,0)"
+           transform="matrix(0,1,-1,0,6.4285714,1.4285714)"
            clip-path="url(#clipPath14004)"><tspan
              sodipodi:role="line"
              id="tspan13681-0-1-6-2"
              x="-24.306847"
-             y="-564.28937">Motors/Mixed mosfets input</tspan></text>
+             y="-564.28937">Motors/Mixed mosfets </tspan><tspan
+             sodipodi:role="line"
+             x="-24.306847"
+             y="-545.53937"
+             id="tspan7456">power input</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a0a0a0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
