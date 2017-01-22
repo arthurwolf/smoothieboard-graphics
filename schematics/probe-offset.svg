@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="206.24879mm"
+   height="77.330528mm"
+   viewBox="0 0 730.80282 274.00581"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="probe-offset.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4391"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4382"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4525"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4527"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4267"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="282.69535"
+     inkscape:cy="-7.1196636"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1124"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(58.237467,-113.56449)">
+    <g
+       id="g4194"
+       transform="matrix(0.39078709,0,0,0.39078709,290.28871,121.04015)">
+      <g
+         id="Layer_1">
+        <g
+           id="g4139">
+          <path
+             id="path4141"
+             stroke-miterlimit="10"
+             d="m 408.091,287.145 c 0,73.587 -38.933,133.131 -87.025,133.131"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#c1272d;stroke-width:19;stroke-miterlimit:10" />
+          <path
+             id="path4143"
+             stroke-miterlimit="10"
+             d="m 394.668,305.569 c 0,56.122 -32.93,101.534 -73.603,101.534"
+             inkscape:connector-curvature="0"
+             style="fill:none;stroke:#ff1d25;stroke-width:21;stroke-miterlimit:10" />
+          <rect
+             id="rect4145"
+             y="384"
+             x="144"
+             width="183"
+             height="62"
+             style="fill:#b3b3b3" />
+          <polygon
+             id="polygon4147"
+             points="170.051,373 154.167,353 316.826,353 303.483,373 "
+             style="fill:#323232" />
+          <rect
+             id="rect4149"
+             y="373"
+             x="155"
+             width="163"
+             height="82"
+             style="fill:#ffcb00" />
+          <polygon
+             id="polygon4151"
+             points="184.585,455 234.543,484.863 284.501,455 "
+             style="fill:#ffcb00" />
+          <rect
+             id="rect4153"
+             y="28"
+             x="155"
+             width="163"
+             height="61"
+             style="fill:#323232" />
+          <rect
+             id="rect4155"
+             y="221"
+             x="155"
+             width="163"
+             height="132"
+             style="fill:#323232" />
+          <rect
+             id="rect4157"
+             y="89"
+             x="225"
+             width="20"
+             height="132"
+             style="fill:#323232" />
+          <rect
+             id="rect4159"
+             y="100"
+             x="155"
+             width="163"
+             height="20"
+             style="fill:#323232" />
+          <rect
+             id="rect4161"
+             y="130"
+             x="155"
+             width="163"
+             height="20"
+             style="fill:#323232" />
+          <rect
+             id="rect4163"
+             y="160"
+             x="155"
+             width="163"
+             height="20"
+             style="fill:#323232" />
+          <rect
+             id="rect4165"
+             y="190"
+             x="155"
+             width="163"
+             height="21"
+             style="fill:#323232" />
+          <rect
+             id="rect4167"
+             y="89"
+             x="164"
+             width="61"
+             height="11"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4169"
+             y="89"
+             x="245"
+             width="62"
+             height="11"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4171"
+             y="120"
+             x="245"
+             width="62"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4173"
+             y="150"
+             x="245"
+             width="62"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4175"
+             y="180"
+             x="245"
+             width="62"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4177"
+             y="211"
+             x="245"
+             width="62"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4179"
+             y="211"
+             x="164"
+             width="61"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4181"
+             y="180"
+             x="164"
+             width="61"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4183"
+             y="120"
+             x="164"
+             width="61"
+             height="10"
+             style="fill:#1e1e1e" />
+          <rect
+             id="rect4185"
+             y="150"
+             x="164"
+             width="61"
+             height="10"
+             style="fill:#1e1e1e" />
+        </g>
+      </g>
+      <g
+         id="Layer_2" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 500.02551,364.44832 0,-226.27417"
+       id="path4222"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#818181;stroke-width:40;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 500.02551,267.92821 0,-116.36233"
+       id="path4222-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.12598419;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598425, 4.2519685;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 381.7049,310.57649 -154.99999,0"
+       id="path4239"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.12598419;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598425, 4.2519685;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 498.49062,368.79078 -273.92857,0"
+       id="path4241"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.30679214;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInL);marker-end:url(#TriangleOutL)"
+       d="m 236.70491,320.62378 0,37.76258"
+       id="path4243"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="180.81731"
+       y="221.00667"
+       id="text5565"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5567"
+         x="180.81731"
+         y="221.00667">Hotend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="543.4621"
+       y="216.96605"
+       id="text5569"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="543.4621"
+         y="216.96605"
+         id="tspan5573">Probe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-44.446712"
+       y="352.32651"
+       id="text5577"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5579"
+         x="-44.446712"
+         y="352.32651">Probe offset</tspan></text>
+  </g>
+</svg>
